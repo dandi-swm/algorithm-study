@@ -1,3 +1,17 @@
+// ✏️ 프로그래머스 괄호 회전하기
+
+// 📶 문제 난이도
+// Level 2
+
+// 🔗 문제 링크
+// https://school.programmers.co.kr/learn/courses/30/lessons/76502
+
+// ⏱️ 풀이 시간
+// 10분
+
+// ✅ 풀이 근거
+// 문자열 회전 + stack으로 해결
+
 import java.util.*;
 
 class Solution {
