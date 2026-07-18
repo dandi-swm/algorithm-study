@@ -7,7 +7,7 @@ Lv. 3
 https://school.programmers.co.kr/learn/courses/30/lessons/42861?language=java
 
 ⏱️ 풀이 시간
-5분
+30분
 
 ✅ 풀이 근거
 //MST 구하는 문제
