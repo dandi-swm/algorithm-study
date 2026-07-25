@@ -1,5 +1,16 @@
 package week3.도넛과막대그래프.twalla;
 
+// ✏️ 프로그래머스 도넛과 막대 그래프
+
+// 📶 문제 난이도
+// Level 2
+
+// ⏱️ 풀이 시간
+// 1시간
+
+// ✅ 풀이 근거
+// 직접 그래프 탐색하면서 풀다가 그냥 indegree outdegree 갯수만으로 해결할 수 있다는 걸 알게됨..
+
 import java.util.*;
 
 public class Solution {
